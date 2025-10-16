@@ -92,7 +92,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ala%20Eddine%20Mhedhbi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alamhadhbi)
 [![Email](https://img.shields.io/badge/Email-ala.mhadhbi%40esprit.tn-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ala.mhadhbi@esprit.tn)
-[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge\&logo=googledrive\&logoColor=white)](https://your-cv-link.com)
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/iconalaa/iconalaa/raw/main/Ala-Eddine-Mhedhbi-CV.pdf)
+
 
 </div>
 
